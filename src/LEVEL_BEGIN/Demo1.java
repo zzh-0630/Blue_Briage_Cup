@@ -1,4 +1,4 @@
-package com.bluebegin.java;
+package LEVEL_BEGIN;
 
 import java.util.*;
 
